@@ -1,5 +1,15 @@
-## Hi there 👋
+<h1 align="center"><b>Hi , I'm Deborah </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Warm+Welcome+to+my+HUB"></a>
+</p>
+
+I'm a Data Scientist and Data Analyst aiming to always learn more and develop in a world where data is everywhere. I'm passionate about using insights from data to influence business decision making to positively impact society
+
+
+⚡ Fun fact: I enjoy playing chess and monopoly
+
+📫 How to reach me: deborahyankson3@gmail.com
 <!--
 **Deb-yank/Deb-yank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
